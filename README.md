@@ -7,10 +7,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericobon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </div>
 <div style="display: inline_block"><br>
-    <img align="center" alt="erico-sql" height="30" width="40" src="https://i.ibb.co/HFMD3Zb/servidor-sql.png">
+    <img align="center" alt="erico-sql" height="30" width="40" src="https://i.ibb.co/m6MDn0b/SQL2.jpg">
  <img align="center" alt="erico-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="erico-tableau" height="30" width="40" src="https://i.ibb.co/SfjsMyG/tableau.png">
    <img align="center" alt="erico-alteryx" height="30" width="40" src="https://i.ibb.co/2gqbY8q/Alteryx.jpg">
+  
+ 
   
 
 </div>
