@@ -2,8 +2,7 @@
 
 🚀 I’m currently working as Data Science on Ed Tech company | 💻 Passionate about Data science | ₿ enthusiast of the "Crypto World"
 <div align="center">
-  <a href="https://github.com/ericobon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericobon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericobon&theme=holi&include_all_commits=true&count_private=true&show_icons=true"/>
   </div>
 
 <div style="display: inline_block"><br>
