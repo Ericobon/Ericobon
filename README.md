@@ -3,11 +3,11 @@
 🚀 I’m currently working as Data Science on Ed Tech company | 💻 Passionate about Data science | ₿ enthusiast of the "Crypto World"
 
 <div style="display: inline_block"><br>
-<img align="center" alt="erico-sql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-<img align="center" alt="erico-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-<img align="center" alt="erico-alteryx" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg">	
-<img align="center" alt="erico-tableau" height="50" width="50" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg">	
-<img align="center" alt="erico-tableau" height="50" width="50" src="https://i.ibb.co/SfjsMyG/tableau.png"> 
+<img align="center" alt="erico-sql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
+<img align="center" alt="erico-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+<img align="center" alt="erico-alteryx" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg">	
+<img align="center" alt="erico-tableau" height="40" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg">	
+<img align="center" alt="erico-tableau" height="40" width="40" src="https://i.ibb.co/SfjsMyG/tableau.png"> 
 </div>
   
   ##
