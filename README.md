@@ -23,12 +23,4 @@
   <a href="https://instagram.com/erico.boni" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </div>
   
-  <section id="banner">
-									<div class="content">
-										<header>
-											<h1>Esse é meu portifólio de <br />
-											Projetos de Ciência de dados</h1>
-											<p>Nessa pagina eu demonstro minhas habilidades em resolver problemas de negocio utilizando conceitos e ferramentas da Ciência de dados</header>
-										<p>Você vai encontrar também, minhas experiências profissionais, habilidades, ferramentas e conceitos envolvendo Ciência de dados </p>
-
 									
