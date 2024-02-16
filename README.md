@@ -1,9 +1,6 @@
 # Hey! Welcome to my profile! 👋
 
 🚀 I’m currently working as Data Science on Ed Tech company | 💻 Passionate about Data science | ₿ enthusiast of the "Crypto World"
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericobon&theme=holi&include_all_commits=true&count_private=true&show_icons=true"/>
-  </div>
 
 <div style="display: inline_block"><br>
 <img align="center" alt="erico-sql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
