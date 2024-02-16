@@ -2,6 +2,8 @@
 
 🚀 I’m currently working as Data Science on Ed Tech company | 💻 Passionate about Data science | ₿ enthusiast of the "Crypto World"
 
+[My DS portfolio](https://www.datascienceportfol.io/ericobonilha)
+
 <div style="display: inline_block"><br>
 <img align="center" alt="erico-sql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
 <img align="center" alt="erico-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
